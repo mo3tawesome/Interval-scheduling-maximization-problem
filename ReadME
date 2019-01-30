@@ -1,1 +1,3 @@
 A newly proposed algorithm for the intervals scheduling maximization problem that not only chooses an optimum number of intervals, but also prioritizes ones over others to get a unique solution if it existed
+
+The result is then compared to the output of the straigh forward greedy solution to the problem
